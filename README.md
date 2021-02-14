@@ -69,3 +69,11 @@ Be careful! any mistake here may brick your device! No one else is responsible i
  5. Reboot into your Opencore and press space to VerifyMsrE2
 
 This is just a quick guide to point you in the right direction! Researching the other resources are more fun and satisfying.
+
+
+
+# Credits
+I do not take credit for any of the work done for this hackintosh.
+
+Credit goes to Daliansky and everyone else involved as better referenced on his page:
+https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/References
